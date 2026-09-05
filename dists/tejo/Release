@@ -1,0 +1,14 @@
+Origin: Leziria OS
+Label: Leziria OS Repository
+Suite: tejo
+Codename: tejo
+Architectures: amd64
+Components: main
+Description: Repositório oficial do Lezíria OS
+Date: Sat, 05 Sep 2026 16:12:00 +0000
+MD5Sum:
+ 803cc9b3d33d035fe7f529b2167950b5 2308444 pool/main/leziria-format-usb.deb
+SHA1:
+ aaeae13d609aad77cf23cce713d03b7d6600d836e 2308444 pool/main/leziria-format-usb.deb
+SHA256:
+ 54c3f888ad8262ae392dcf0a7cd0f1a184faece537fff730886dbc3f4d7a9 2308444 pool/main/leziria-format-usb.deb

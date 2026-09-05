@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Leziria OS
+Label: Leziria OS Repository
+Suite: tejo
+Codename: tejo
+Architectures: amd64
+Components: main
+Description: Repositório oficial do Lezíria OS
+Date: Sat, 05 Sep 2026 16:12:00 +0000
+MD5Sum:
+ 803cc9b3d33d035fe7f529b2167950b5 2308444 pool/main/leziria-format-usb.deb
+SHA1:
+ aaeae13d609aad77cf23cce713d03b7d6600d836e 2308444 pool/main/leziria-format-usb.deb
+SHA256:
+ 54c3f888ad8262ae392dcf0a7cd0f1a184faece537fff730886dbc3f4d7a9 2308444 pool/main/leziria-format-usb.deb
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJB5yoX0Nio2UlwCk5+7XkOvDdtIFAmqcMtQACgkQ5+7XkOvD
+dtKllBAAlKCPmbY4aE09UH1GRkaufAQlwcGNtXTzQm5VZ0s/9bo3s+CxNN14fCTr
+u7mxWYifv4+qwCN1LsWAF+kvB1uvEq9qzn10wxyTK8GKWipLHSaFMBmOQ4xya4ir
+F4OhXl8OJJB3pKNi3Vk66Ry3CaDdxXSAW929pCF6Q6fp0Es1QuZtaA9kvxoMX49I
+YdyZxAuZ3wnHcEj5+pGEbGdLWgugLA1tgOq3zaCCSIyHYXDunBym8nZs6WF/PAYT
+NFYjBStYAlNtUA1N7Wwn7csFBPWmqR5zO4smaPku2nenZ2Uh5kwvD/M4ppbOmnJe
+bIZ97SxIeF5Y8Ydadfee+oXl1/cHLV+3amiW6txzNo4qQeRCry2u/wMa9s6mLVLx
+kUtIggocUGAcikNDEY8HoxzmKNRm9bVK0DW5WuXy1pxSXy7SFvaTjfSqaP9eFw6C
+loOIbwoCWHoO34DEHMabWn2FA7F/1tu6YXjKxlM1WkIcUPI61wGr9lza0Rnx4srz
+uCCnN/F1+rTMsRxrkc3w8OQczViFEHu/m/7zsJupOLBEJ0mj2m8iPHg45LsoXY3I
+41NmlY6mPLRY4qtvwobDkq1zeHSramnDqpJ35RVRqOeTVVRvSEwdBeipOff+duWl
+JbbaOaWV9XX2x0pO34oScrtQ/7S3qnLXzY16zr+u+k5t9XDFVzA=
+=htn3
+-----END PGP SIGNATURE-----
